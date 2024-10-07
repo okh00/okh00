@@ -18,7 +18,7 @@
 2. DaCapo: An On-Device Learning Scheme for Memory-Constrained Embedded Systems\
 **Osama Khan**, Gwanjong Park and Euiseong Seo, **EMSOFT**, September 2023 [[paper]](https://dl.acm.org/doi/full/10.1145/3609121)
 
-3. Efficient Adaptive Batching of DNN Inference Services for Improved Latency\
+3. Energy-Harvesting-Aware Adaptive Inference of Deep Neural Networks in Embedded Systems\
 Gwanjong Park, **Osama Khan** and Euiseong Seo, **ISLPED**, August 2023 [[paper]](https://ieeexplore.ieee.org/abstract/document/10244276)
    
 #### International Workshop
