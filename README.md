@@ -22,7 +22,8 @@
 Gwanjong Park, **Osama Khan** and Euiseong Seo, **ISLPED**, August 2023 [[paper]](https://ieeexplore.ieee.org/abstract/document/10244276)
    
 #### International Workshop
-1. Efficient Adaptive Batching of DNN Inference Services for Improved Latency, **Osama Khan**, Junyeol Yu, Yeonjae Kim, and Euiseong Seo, **ICOIN**, January 2024 [[paper]](https://ieeexplore.ieee.org/abstract/document/10572152)
+1. Efficient Adaptive Batching of DNN Inference Services for Improved Latency\
+**Osama Khan**, Junyeol Yu, Yeonjae Kim, and Euiseong Seo, **ICOIN**, January 2024 [[paper]](https://ieeexplore.ieee.org/abstract/document/10572152)
 
    
 
