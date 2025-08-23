@@ -12,17 +12,17 @@
 
 ### Publications 📖
 #### International Conferences
-1. Cloud Reamer: Enabling Inference Services in Training Clusters\
+- Cloud Reamer: Enabling Inference Services in Training Clusters\
 **Osama Khan**, Gwanjong Park, Junyeol Yu and Euiseong Seo, **MASCOTS**, October 2024 [[paper]](https://ieeexplore.ieee.org/document/10786549)
 
-2. DaCapo: An On-Device Learning Scheme for Memory-Constrained Embedded Systems\
+- DaCapo: An On-Device Learning Scheme for Memory-Constrained Embedded Systems\
 **Osama Khan**, Gwanjong Park and Euiseong Seo, **EMSOFT**, September 2023 [[paper]](https://dl.acm.org/doi/full/10.1145/3609121)
 
-3. Energy-Harvesting-Aware Adaptive Inference of Deep Neural Networks in Embedded Systems\
+- Energy-Harvesting-Aware Adaptive Inference of Deep Neural Networks in Embedded Systems\
 Gwanjong Park, **Osama Khan** and Euiseong Seo, **ISLPED**, August 2023 [[paper]](https://ieeexplore.ieee.org/abstract/document/10244276)
    
 #### International Workshop
-1. Efficient Adaptive Batching of DNN Inference Services for Improved Latency\
+- Efficient Adaptive Batching of DNN Inference Services for Improved Latency\
 **Osama Khan**, Junyeol Yu, Yeonjae Kim, and Euiseong Seo, **ICOIN**, January 2024 [[paper]](https://ieeexplore.ieee.org/abstract/document/10572152)
 
    
