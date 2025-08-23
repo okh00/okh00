@@ -12,6 +12,9 @@
 
 ### Publications 📖
 #### International Conferences
+- Carbon-Aware Continuous Learning for Sustainable Real-Time Machine Learning Analytics\
+Gwanjong Park, **Osama Khan**, Dongho Ha, Myeongjae Jeon, and Euiseong Seo, **EuroSys**, 2026
+
 - Cloud Reamer: Enabling Inference Services in Training Clusters\
 **Osama Khan**, Gwanjong Park, Junyeol Yu and Euiseong Seo, **MASCOTS**, October 2024 [[paper]](https://ieeexplore.ieee.org/document/10786549)
 
